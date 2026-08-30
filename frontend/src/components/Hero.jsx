@@ -164,9 +164,9 @@ const Hero = () => {
               shadow-[0_0_60px_rgba(34,211,238,0.15)]
             "
             >
-              
+
               <img src={heroImage} alt="Hero"
-              className="rounded-2xl w-full h-auto" />
+                className="rounded-2xl w-full h-auto" />
             </div>
 
           </div>
